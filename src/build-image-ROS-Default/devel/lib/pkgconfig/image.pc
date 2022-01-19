@@ -1,0 +1,8 @@
+prefix=/home/dgist/projection_ws/src/build-image-ROS-Default/devel
+
+Name: image
+Description: Description of image
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport message_runtime sensor_msgs

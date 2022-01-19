@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dgist/projection_ws/src/build-image-ROS-Default/devel/setup.sh
